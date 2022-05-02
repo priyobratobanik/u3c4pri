@@ -1,0 +1,33 @@
+#search_bar{
+    width: 80%;
+    margin: 10px auto;
+}
+#search_input{
+    width: 100%;
+    height: 33px;
+    border: 1px solid orange;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: medium;
+}
+#sidebar{
+    display: list-item;
+    /* border: 1px solid black; */
+    width: 120px;
+
+}
+#sidebar h3{
+    width: 100px;
+    border: 1px solid black;
+    background-color: brown;
+    padding:10px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+a{
+    font-size:large;
+    text-decoration: none;
+    margin-left: -120px;
+    font-weight: 700;
+
+}
